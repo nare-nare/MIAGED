@@ -1,6 +1,8 @@
 L’objectif du TP donné était de réaliser un ensemble de MVP pour pouvoir obtenir un maximum de retours client avec un minimum d’effort.<br>
 Cet ensemble le MVP m’a permis de réaliser une petite application nommée «MIAGED».<br>
 
+Pour executer le projet, entrez la commande suivante :
+flutter run -d chrome --web-renderer html
 /////////////////////////////////////////////////////US#1 : [MVP] Interface de login//////////////////////////////////////////<br>
 Après le lancement du projet, l’interface de login sera affichée. <br>Pour vous connecter, vous pouvez entrer les informations suivantes :<br>
    -Email : houdajonhy@gmail.com    -Password : HOUDA123<br><br><br>
