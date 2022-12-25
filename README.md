@@ -28,7 +28,7 @@ encore réalisée, ce bouton est maintenant juste comme un bouton "j'aime" pour 
 <br> Le panier contient la liste des articles ajoutés par l'utilisateur, il pouura notamment en retirer.
 <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 /////////////////////////////////////////////////////US#5 : [MVP] Profil utilisateur ////////////////////////////////////////<br> 
-L'utilisateur pourra modifier toutes ses informations entrées lors de la creation du compte(sauf le mot de passe car fire base n'a pas donné l'acces)<img width="199" alt="image" src="https://user-images.githubusercontent.com/87307477/209481443-e51c38c8-6820-4d2a-8617-81c238b93432.png">
+L'utilisateur pourra à part l'email qui est en read only,modifier toutes ses informations entrées lors de la creation du compte(sauf le mot de passe car fire base n'a pas donné l'acces)<br><img width="199" alt="image" src="https://user-images.githubusercontent.com/87307477/209481443-e51c38c8-6820-4d2a-8617-81c238b93432.png">
 <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 /////////////////////////////////////////////////////Deconnection////////////////////////////////////////<br> 
 Pour la deconnection, j'ai preferer de la mettre dans la barre de tache et sous forme d'une icone.
