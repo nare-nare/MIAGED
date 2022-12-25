@@ -4,7 +4,9 @@ Cet ensemble le MVP m’a permis de réaliser une petite application nommée «M
 /////////////////////////////////////////////////////US#1 : [MVP] Interface de login//////////////////////////////////////////<br>
 Après le lancement du projet, l’interface de login sera affichée. <br>Pour vous connecter, vous pouvez entrer les informations suivantes :<br>
    -Email : houdajonhy@gmail.com    -Password : HOUDA123<br><br><br>
-Si un email et un password sont incorrect (c’est-à-dire  que le compte n’existe pas), un message d’erreur est affiché dans la console mais l’application fonctionne toujours 😊
+Si un email et un password sont incorrect (c’est-à-dire  que le compte n’existe pas), un message d’erreur est affiché dans la console mais l’application fonctionne toujours 😊<br><img width="206" alt="image" src="https://user-images.githubusercontent.com/87307477/209481553-abd7f76d-a780-4b56-bdbc-1098ade5a8ac.png"><br><img width="263" alt="image" src="https://user-images.githubusercontent.com/87307477/209481565-7667e331-a695-4231-bc2f-8a1bc2365c2c.png">
+
+
 <br><br><br>
 J’ai aussi ajouter une interface de création de compte, il suffit de cliquer sur« créer un », et remplir tous les champs du formulaire. <br>
 Le remplissage du formulaire doit être fait dans les bonnes conditions parmi elles on trouve :     <br>  ![image](https://user-images.githubusercontent.com/87307477/209481032-f8aad151-a7c5-4181-b7d8-c303e44c45c4.png)
